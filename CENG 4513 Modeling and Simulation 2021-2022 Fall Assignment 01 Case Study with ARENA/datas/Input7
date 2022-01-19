@@ -1,0 +1,32 @@
+
+	Distribution Summary
+
+Distribution:	Triangular   
+Expression:	TRIA(2.5, 5, 7.5)
+Square Error:	0.013711
+
+
+	Data Summary
+
+Number of Data Points	= 12
+Min Data Value       	= 3
+Max Data Value       	= 7
+Sample Mean          	= 5.08
+Sample Std Dev       	= 1.24
+
+	Histogram Summary
+
+Histogram Range    	= 2.5 to 7.5
+Number of Intervals	= 5
+
+
+==================================================================
+Int.   No. of               Probability           Cumulative      
+No.    Data Pts.   x        Density               Distribution    
+------------------------------------------------------------------
+                            Data   Function       Data   Function   
+   0     1       3.00     0.0833     0.0800     0.0833     0.0800
+   1     3       4.00      0.250      0.240      0.333      0.320
+   2     4       5.00      0.333      0.360      0.667      0.680
+   3     2       6.00      0.167      0.240      0.833      0.920
+   4     2       7.00      0.167     0.0800       1.00       1.00

@@ -1,0 +1,12 @@
+[RESOURCES]
+[VARIABLES]
+Order Time.NumberIn
+Preperation of items.NumberOut
+Customer Arrival Rate.NumberOut
+queue waiting time.NumberIn
+Delivered order.NumberOut
+Preperation of items.NumberIn
+queue waiting time.NumberOut
+Delivered order.NumberIn
+Order Time.NumberOut
+Leaving the Cashe.NumberOut
