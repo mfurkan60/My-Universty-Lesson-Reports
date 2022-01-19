@@ -3,7 +3,7 @@
 
 ![alt text](https://upload.wikimedia.org/wikipedia/tr/thumb/9/98/Mu%C4%9Fla_S%C4%B1tk%C4%B1_Ko%C3%A7man_%C3%9Cniversitesi_logo.png/150px-Mu%C4%9Fla_S%C4%B1tk%C4%B1_Ko%C3%A7man_%C3%9Cniversitesi_logo.png?raw=true)
 
-This repository is about that My university some projects and projects reports in 2019-2020 Spring year. The spring semester of 2019-2020 passed with the Covid-19 pandemic. For this reason, we proceeded with projects and homework in that courses.
+This repository is about that My university some projects and projects reports in 2019-2020-2021-2022  year. The spring and fall semesters of 2019-2020-2021-2022 passed with the Covid-19 pandemic. For this reason, we proceeded with projects and homework in that courses.
 
 
 
@@ -17,6 +17,9 @@ This repository is about that My university some projects and projects reports i
 * Mobile Application ; I made Android Application that LUMOS( project Shared Platform) with Android Studio.
 
 * Computer Graphics; I worked on simple animation throughout this course. 
+* CENG 4513 Modeling and Simulation 2021-2022 Fall Assignment 01 Case Study with ARENA
+* CENG 4513 Modeling and Simulation 2021-2022 Fall Assignment 02 Case Study with Java Agent Development Env.(JADE)
+
 
  
 ## Contributing
